@@ -1,0 +1,1015 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--[if IE 8 ]><html lang="nl-NL" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><html lang="nl-NL" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Hosting Solution Builder | Nucleus</title>
+
+<link rel="stylesheet" href="https://www.nucleus.be/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3" type="text/css" media="all" />
+	<style type='text/css'>
+          .no-break br {
+            display: none !important;
+          }
+      </style>
+<!-- This site is optimized with the Yoast SEO plugin v3.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Nucleus is een Hosting Solution Builder. Domeinnamen, Shared Hosting, Dedicated &amp; Cloud Servers. Consultancy voor DevOps, schaalbaarheid en business continuity."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://www.nucleus.be/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hosting Solution Builder | Nucleus" />
+<meta property="og:description" content="Nucleus is een Hosting Solution Builder. Domeinnamen, Shared Hosting, Dedicated &amp; Cloud Servers. Consultancy voor DevOps, schaalbaarheid en business continuity." />
+<meta property="og:url" content="https://www.nucleus.be/" />
+<meta property="og:site_name" content="Nucleus" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Nucleus is een Hosting Solution Builder. Domeinnamen, Shared Hosting, Dedicated &amp; Cloud Servers. Consultancy voor DevOps, schaalbaarheid en business continuity."/>
+<meta name="twitter:title" content="Hosting Solution Builder | Nucleus"/>
+<meta name="twitter:creator" content="@mattiasgeniar"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.nucleus.be\/","name":"Nucleus","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.nucleus.be\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='stylesheet' id='lazyyt-css'  href='https://www.nucleus.be/wp-content/themes/nucleus/assets/css/lazyYT.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='https://www.nucleus.be/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' media='all' />
+<script type='text/javascript' src='https://www.nucleus.be/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://www.nucleus.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://www.nucleus.be/wp-content/themes/nucleus/assets/js/js.cookie.js?ver=1.0.0'></script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"9b204329-eb86-4c74-a798-34499b96020a"});var st_type="wordpress4.3.1";</script>
+<meta name="generator" content="WPML ver:3.3 stt:39,1;" />
+<link rel="alternate" hreflang="nl-NL" href="https://www.nucleus.be/" />
+<link rel="alternate" hreflang="en-US" href="https://www.nucleus.be/en/" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/bootstrap-responsive.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/bootstrap-image-gallery.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/default.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/elastislide.css" media="screen" rel="stylesheet" type="text/css" />
+	    <link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/css/fontawesome/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+	<link href="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+	<style type="text/css">
+	#tldList {
+            list-style-type: none;
+            margin: 0;
+        }
+        #tldList li {
+            width: 159px;
+            height: 25px;
+            line-height: 25px;
+            padding: 15px;
+            margin: 0 3px 3px 0;
+            float: left;
+            color: #3b4453;
+            background-color: #f5f5f5;
+            font-size: 12px;
+        }
+        #tldList li.reg {
+            width: 159px;
+            height: 25px;
+            line-height: 15px;
+            padding: 15px;
+            margin: 0 3px 3px 0;
+            float: left;
+            color: #3b4453;
+            background-color: #eaeaea;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        #tldList li.reg:hover {
+            text-decoration: underline;
+        }
+
+        #tldList li.prereg:hover {
+            color: #f5f5f5;
+            background-color: #3b4453;
+        }
+        #tldList li.selected {
+            color: #fff;
+            background-color: #8cbd2f;
+        }
+        #tldList li em {
+            display: none
+        }
+        #tldList li.selected em {
+            display: inline;
+        }
+
+        #categoryList a, #categoryList a:hover, #categoryList a:focus {
+            color: #8cbd2f
+        }
+        #categoryList>.active>a, #categoryList>.active>a:hover, #categoryList>.active>a:focus {
+            background-color: #8cbd2f;
+            color: #fff
+        }
+
+        .popover {
+            max-width: 400px;
+            min-width: 300px;
+            width: auto;
+        }
+
+        #orderedDomainsList li a {
+            text-transform: lowercase;
+            color: #8cbd2f
+        }
+        #orderedDomainsListContainer.affix {
+            position: fixed;
+            top: 10px;
+        }
+
+        .affix {
+            top: 10px;
+        }
+
+        #preregSelectionForm .row .span4 {
+            margin-left: 0 !important
+        }
+</style>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/jquery.js"></script>
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="format-detection" content="telephone=no" />
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-262553-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<!-- Google Code for Remarketing Tag -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 965951265;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+</head>
+<body class="home page page-id-4 page-template page-template-page-home page-template-page-home-php">
+	<div class="navbar-wrapper">
+	<div class="container">
+				<h1><a id="logo" href="https://www.nucleus.be/"><span class="img_replace">Nucleus</span></a></h1>
+
+		<span class="top-menu" id="secondaryNav">
+			<ul>
+										<li>
+					<a href="https://www.nucleus.be/over/">
+						Wie is Nucleus											</a>
+				</li>
+							<li>
+					<a href="https://www.nucleus.be/vacatures/">
+						Jobs						<span class="label label-important">5</span>					</a>
+				</li>
+							<li>
+					<a href="https://www.nucleus.be/over/cases/">
+						Cases											</a>
+				</li>
+							<li>
+					<a href="https://www.nucleus.be/blog/">
+						Blog											</a>
+				</li>
+							<li>
+					<a href="https://www.nucleus.be/helpdesk/">
+						Helpdesk											</a>
+				</li>
+							<li>
+					<a href="https://order.nucleus.be">
+						Order wizard											</a>
+				</li>
+							<li>
+					<a href="https://www.nucleus.be/contact/">
+						Contact											</a>
+				</li>
+						</ul>
+		</span>
+
+
+		<span class="top-info">
+		    <a href="https://controlpanel.nucleus.be">MY NUCLEUS</a>
+		</span>
+		<span class="top-info top-info-mobile">
+		    <a href="https://controlpanel.nucleus.be">MY NUCLEUS</a>
+		</span>
+
+		<div class="languageSwitcher"><a href="https://www.nucleus.be/en/">en</a></div>
+		<div class="navbar navbar-inverse">
+			<div class="navbar-inner">
+												<ul id="mainmenu" class="nav menu">
+																		<li class="first home">
+								<a href="https://www.nucleus.be/">Home</a>
+															</li>
+													<li class="dropdown-submenu">
+								<a href="https://www.nucleus.be/domeinnamen/">Shared Hosting</a>
+																	<div class="menu-container dropdown-menu">
+										<div class="menu-col">
+											<ul>
+																							<li>
+													<a href="https://www.nucleus.be/domeinnamen/">Domeinnamen</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/webhosting/">Webhosting</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/kritische-applicatie-hosting/">Applicatie hosting</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/database-hosting/">Database hosting</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/e-mail-hosting/">E-mail hosting</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/online-backup/">Online back-up</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/reseller/">Resellers</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/ssl-certificaten/">SSL-certificaten</a>
+												</li>
+																						</ul>
+										</div>
+									</div>
+															</li>
+													<li class="dropdown-submenu">
+								<a href="https://www.nucleus.be/dedicated-server/">Dedicated Hosting</a>
+																	<div class="menu-container dropdown-menu">
+										<div class="menu-col">
+											<ul>
+																							<li>
+													<a href="https://www.nucleus.be/dedicated-server/">Dedicated server</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/colocation/">Colocatie of server housing</a>
+												</li>
+																						</ul>
+										</div>
+									</div>
+															</li>
+													<li class="dropdown-submenu">
+								<a href="https://www.nucleus.be/cloud-hosting/">Cloud</a>
+																	<div class="menu-container dropdown-menu">
+										<div class="menu-col">
+											<ul>
+																							<li>
+													<a href="https://www.nucleus.be/cloud-hosting/">Cloud servers</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/private-cloud/">Private Cloud</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/hosting-consultancy/schaalbare-hosting/content-delivery-network/">Content Delivery Network</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/business-continuity/veeam-cloud-connect/">Veeam Cloud Connect</a>
+												</li>
+																						</ul>
+										</div>
+									</div>
+															</li>
+													<li class="dropdown-submenu">
+								<a href="https://www.nucleus.be/managed-hosting/">Managed Services</a>
+																	<div class="menu-container dropdown-menu">
+										<div class="menu-col">
+											<ul>
+																							<li>
+													<a href="https://www.nucleus.be/managed-hosting/">Managed Hosting</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/hosting-consultancy/schaalbare-hosting/load-balancing/">Load Balancing</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/beveiliging/">Beveiliging</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/connectiviteit/">Connectiviteit</a>
+												</li>
+																						</ul>
+										</div>
+									</div>
+															</li>
+													<li class="dropdown-submenu">
+								<a href="https://www.nucleus.be/uptime-as-a-service/">Uptime as a Service</a>
+																	<div class="menu-container dropdown-menu">
+										<div class="menu-col">
+											<ul>
+																							<li>
+													<a href="https://www.nucleus.be/uptime-as-a-service/">Uptime as a Service</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/hosting-consultancy/">Hosting consultancy</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/business-continuity/">Business Continuity</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/hosting-consultancy/schaalbare-hosting/schaalbaarheid/">Schaalbaarheid</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/multidatacenter-oplossingen/">Multidatacenter</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/redundant-netwerk/">Network infrastructuur</a>
+												</li>
+																							<li>
+													<a href="https://www.nucleus.be/software-as-a-service-hosting/">Software-as-a-service</a>
+												</li>
+																						</ul>
+										</div>
+									</div>
+															</li>
+										</ul>
+							</div><!-- /.navbar-inner -->
+
+			<div class="navbar-inner navbar-smartphone">
+				<ul id="smartphonemenu" class="nav menu level_0 clearfix">
+										<li class="first"><a href="https://www.nucleus.be/domeinnamen/" title="Shared">Shared</a></li>
+										<li><a href="https://www.nucleus.be/dedicated-server/" title="Dedicated">Dedicated</a></li>
+										<li><a href="https://www.nucleus.be/managed-hosting/" title="Managed services">Managed services</a></li>
+										<li><a href="https://www.nucleus.be/uptime-as-a-service/" title="Uptime as a Service">Uptime as a Service</a></li>
+									</ul>
+			</div>
+
+			<div class="navbar-mobile">
+			</div>
+
+		</div><!-- /.navbar -->
+	</div> <!-- /.container -->
+</div><!-- /.navbar-wrapper -->
+<div id="header-carousel" class="carousel slide" data-pause="hover">
+	<div class="carousel-inner">
+						<div class="item active">
+					<img src="https://www.nucleus.be/wp-content/uploads/2015/05/nucleus_header_uptime.png" alt="" width="1150" height="438" usemap="#uptime_as_a_service_slider" />
+					<map id="uptime_as_a_service_slider" name="uptime_as_a_service_slider">
+<area shape="poly" alt="Bekijk de video" title="" coords="472,127,925,89,948,357,496,397" href="/uptime-as-a-service/" target="" />
+</map>					<div class="container">
+						<div class="carousel-caption">
+							<h1>Uptime as a Service</h1>
+							<p>Ontdek wat Uptime as a Service is, waarom is het belangrijk voor uw IT infrastructuur en onderneming?</p>
+															<a class="btn btn-large btn-primary" href="https://www.nucleus.be/uptime-as-a-service/">Bekijk de video</a>
+							
+						</div>
+					</div>
+				</div>
+							<div class="item">
+					<img src="https://www.nucleus.be/wp-content/uploads/2015/05/Nucleus_header_Nug.png" alt="" width="1150" height="438" />
+										<div class="container">
+						<div class="carousel-caption">
+							<h1>Universal Groupware naar 25GB</h1>
+							<p>We maken komaf met de verschillende pakketten van Universal Groupware. Alle bestaande en nieuwe klanten krijgen nu een fikse opwaardering van hun account naar 25GB opslag met alle features en meer! En dat voor maar €5 per maand!</p>
+															<a class="btn btn-large btn-primary" href="https://www.nucleus.be/e-mail-hosting/universal-groupware/">Ontdek Universal Groupware</a>
+							
+						</div>
+					</div>
+				</div>
+							<div class="item">
+					<img src="https://www.nucleus.be/wp-content/uploads/2015/05/kinepolis1.png" alt="" width="1150" height="438" />
+										<div class="container">
+						<div class="carousel-caption">
+							<h1>Kinepolis in de Cloud</h1>
+							<p>De website van Kinepolis draait op de schaalbare Cloud hosting van Nucleus. De perfecte oplossing voor een website gevoelig aan pieken en event-driven verkeer.</p>
+															<a class="btn btn-large btn-primary" href="https://www.nucleus.be/blog/whitepaper-kinepolis-com-steeds-beschikbaar-in-de-cloud/">Lees de whitepaper</a>
+							
+						</div>
+					</div>
+				</div>
+				</div>
+
+	<a class="left carousel-control" href="#header-carousel" data-slide="prev">&lsaquo;</a>
+	<a class="right carousel-control" href="#header-carousel" data-slide="next">&rsaquo;</a>
+</div>
+
+
+<div class="container home">
+		<section id="services" class="container">
+		<h1 class="title-green">Onze oplossingen</h1>
+
+		<div class="row">
+							<a class="gradient-link" href="https://www.nucleus.be/multidatacenter-oplossingen/" title="Multidatacenter Oplossingen">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_multidcoplossingen.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>Multidatacenter Oplossingen</h2>
+								<p>U zoekt optimale garanties? Dan kunnen we uw diensten ook in <strong>meerdere datacenters</strong> onderbrengen om nog meer garanties voor uw uptime te kunnen bieden.</p>
+						</div>
+					</article>
+				</a>
+								<a class="gradient-link" href="https://www.nucleus.be/business-continuity/disaster-recovery-plan/" title="Disaster Recovery">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_disasterrecovery.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>Disaster Recovery</h2>
+								<p>Wat als het noodlot toeslaat? Hoe kan uw dienst terug optimaal werken na het verlies van al uw data? Hoe snel bent u weer <strong>up-and-running</strong>? Met een correct Disaster Recovery plan zoeken we dat samen met u uit.</p>
+						</div>
+					</article>
+				</a>
+								<a class="gradient-link" href="https://www.nucleus.be/hosting-consultancy/devops/" title="DevOps">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_devops.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>DevOps</h2>
+								<p>Het principe van DevOps draait om uitwisseling van kennis. <strong>Communicatie</strong> tussen ontwikkelaars en beheerders. Inzicht in mekaars werk. <strong>Samenwerking</strong> om de meest optimale dienst uit te bouwen. Daar geloven we sterk in.</p>
+						</div>
+					</article>
+				</a>
+								<a class="gradient-link" href="https://www.nucleus.be/hosting-consultancy/schaalbare-hosting/schaalbaarheid/" title="Scalability">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_scalability.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>Scalability</h2>
+								<p>U lanceert een nieuwe campagne en die wordt een succes. Plots willen duizenden mensen uw website/dienst/spel bezoeken. <strong>Kan uw server de belasting aan?</strong> Wie helpt u als uw infrastructuur overbelast wordt?</p>
+						</div>
+					</article>
+				</a>
+								<a class="gradient-link" href="https://www.nucleus.be/hosting-consultancy/schaalbare-hosting/load-balancing/" title="Load Balancing">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_loadbalancing.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>Load Balancing</h2>
+								<p>U zoekt redundantie voor uw servers. Of u heeft nood aan meer capaciteit. Door uw dienst te <strong>load balancen over meerdere servers</strong> krijgt u beide voordelen: geen single-point-of-failure en extra rekenkracht.</p>
+						</div>
+					</article>
+				</a>
+								<a class="gradient-link" href="https://www.nucleus.be/managed-hosting/" title="Managed Hosting">
+					<article class="span4">
+						<div class="row-fluid">
+							<div class="span2">
+								<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_managedhosting.png" alt="" width="50" height="50" /></span>
+							</div>
+							<div class="span10">
+								<h2>Managed Hosting</h2>
+								<p>Meer en meer gaan bedrijven zich concentreren op hun corebusiness. En terecht. Uw nevenactiviteiten kosten u vaak te veel tijd en geld.&amp;nbsp; Misschien kan u dan beter <strong>uitbesteden</strong>. Bijvoorbeeld het management van uw servers. Want dat is <strong>onze </strong>corebusiness.</p>
+						</div>
+					</article>
+				</a>
+						</div>
+	</section>
+
+		<section id="products" class="container">
+
+		<h1 class="title-green">Onze producten</h1>
+
+		<div class="row">
+								<a class="gradient-link" href="https://www.nucleus.be/online-backup/" title="Online Back-up">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_onlinebackup.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Online Back-up</h2>
+									<p>Een waterdichte back-up voor uw gegevens en instellingen. Geëncrypteerd en gecomprimeerd. U heeft een werkende back-up om steeds op terug te vallen zodat uw <strong>gegevens nooit verloren gaan.</strong></p>
+								</div>
+						</article>
+					</a>
+									<a class="gradient-link" href="https://www.nucleus.be/virtual-private-server/" title="Virtual Private Server">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_vps.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Virtual Private Server</h2>
+									<p>Een eigen server, vrij om te beheren zoals u het wil. Eigen instellingen en eigen applicaties. Een ideale start om klein te beginnen en door te groeien.</p>
+								</div>
+						</article>
+					</a>
+									<a class="gradient-link" href="https://www.nucleus.be/dedicated-server/" title="Dedicated Server">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_dedicated.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Dedicated Server</h2>
+									<p>Een server waar u zelf de hardware kiest. Volledig op maat. U krijgt exact wat u verwacht, afgestemd op uw noden. U kiest het Operating System en de applicaties, Nucleus staat <strong>garant voor de hardware</strong>.</p>
+								</div>
+						</article>
+					</a>
+									<a class="gradient-link" href="https://www.nucleus.be/cloud-hosting/" title="Cloud Server">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_dcs.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Cloud Server</h2>
+									<p>Virtualisatie ten top. Volledige <strong>hardware onafhankelijkheid</strong>. Eenvoudig up- of downscalen van uw eigen server. Krachtige servers voor u en uw klanten. Een Cloud Server levert ongekende <strong>schaalbaarheid</strong>.</p>
+								</div>
+						</article>
+					</a>
+									<a class="gradient-link" href="https://www.nucleus.be/webhosting/" title="Shared Webhosting">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_sharedhosting.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Shared Webhosting</h2>
+									<p>Uw website op onze shared hosting infrastructuur. De perfecte startplaats voor uw site. Betaalbaar, veilig, eenvoudig en snel. Zowel <strong>Linux</strong> als <strong>Windows</strong>.</p>
+								</div>
+						</article>
+					</a>
+									<a class="gradient-link" href="https://www.nucleus.be/colocation/" title="Colocatie of Housing">
+						<article class="span4">
+							<div class="row-fluid">
+								<div class="span2">
+									<span class="service_icon"><img src="https://www.nucleus.be/wp-content/uploads/2015/05/icon_colocation.png" alt="" width="50" height="50" /></span>
+								</div>
+								<div class="span10">
+									<h2>Colocatie of Housing</h2>
+									<p>Uw server in onze datacenters. Wij garanderen <strong>stroom, koeling en connectiviteit</strong>. Of u een 1U server heeft of een hele rack of meer, bij Nucleus krijgt u de ondersteuning die u wenst.</p>
+								</div>
+						</article>
+					</a>
+						</div>
+	</section>
+
+		<section id="clients-talk" class="carousel slide" data-interval="false">
+
+		<h1 class="title-green">Onze klanten aan het woord</h1>
+
+		<div class="carousel-inner">
+											<div class="item row-fluid active">					<article class="span4">
+						<a href="#video-modal122"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/05/famous.png" class="attachment-medium2 wp-post-image" alt="famous" />																<h2>Famous</h2>
+								<p>Famous zocht een hosting oplossing die schaalbaar is, die ad hoc aanpasbaar en zeer variabel is. </p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1401"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/Exuvis.png" class="attachment-medium2 wp-post-image" alt="Exuvis" />																<h2>Exuvis</h2>
+								<p>Christophe Van Durme van Exuvis geeft zijn visie op wie Exuvis is en waarom ze zo graag met Nucleus samenwerken</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1400"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/Proxis-en-Azur.png" class="attachment-medium2 wp-post-image" alt="Proxis en Azur" />																<h2>Proxis &#038; Azur</h2>
+								<p>“We zijn al enkele keren van webbuilder veranderd, maar nog nooit van webhoster.”</p>
+							</div>
+						</a>
+					</article>
+															</div><div class="item row-fluid">					<article class="span4">
+						<a href="#video-modal1387"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/n-va.png" class="attachment-medium2 wp-post-image" alt="N-VA" />																<h2>N-VA</h2>
+								<p>&quot;De ondersteuning van Nucleus gaat zeer ver: ze is zeer snel, correct en vriendelijk. Dit gaat veel verder dan een standaard helpdesk&quot;</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1393"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/amplexor.png" class="attachment-medium2 wp-post-image" alt="Amplexor" />																<h2>Amplexor</h2>
+								<p>Amplexor is tevreden klant bij Nucleus. Ze zijn verheugd om kwaliteit te vinden bij een team dat echt meedenkt en op zoek gaat naar oplossingen.</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1394"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/euroveiling.png" class="attachment-medium2 wp-post-image" alt="Euroveiling" />																<h2>Euroveiling</h2>
+								<p>Euroveiling wil hun klanten bijstaan in alle mogelijke diensten en biedt daarom de mogelijkheid aan om op afstand mee te doen aan de veilingen via live streaming.</p>
+							</div>
+						</a>
+					</article>
+															</div><div class="item row-fluid">					<article class="span4">
+						<a href="#video-modal1396"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/weba.png" class="attachment-medium2 wp-post-image" alt="Weba" />																<h2>Weba</h2>
+								<p>Nucleus scoort het beste qua kwaliteit en qua prijs. Verder moeten wij ons van het technische niets aantrekken</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1397"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/bkcp.png" class="attachment-medium2 wp-post-image" alt="BKCP" />																<h2>BKCP</h2>
+								<p>BKCP wil als professionele bank een duidelijke, snelle en eenvormige communicatie hebben met hun klanten en hun website is daar zeer belangrijk in.</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal1398"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/kinepolis.png" class="attachment-medium2 wp-post-image" alt="Kinepolis" />																<h2>Kinepolis</h2>
+								<p>De Kinepolis website biedt voor iedereen een website op maat van de eigen smaak. Doorheen gans Europa kunnen surfers alle informatie over films en vertoningen snel raadplegen.</p>
+							</div>
+						</a>
+					</article>
+															</div><div class="item row-fluid">					<article class="span4">
+						<a href="#video-modal1399"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/07/corilus.png" class="attachment-medium2 wp-post-image" alt="Corilus" />																<h2>Corilus</h2>
+								<p>Met het pakket CareConnect zorgt Corilus dat huisartsen nu en in de toekomst altijd en overal snel en veilig aan al hun gegevens kunnen.</p>
+							</div>
+						</a>
+					</article>
+																				<article class="span4">
+						<a href="#video-modal125"  data-toggle="modal">
+							<div class="row-fluid">
+																	<img src="https://www.nucleus.be/wp-content/uploads/2015/05/lensonline.png" class="attachment-medium2 wp-post-image" alt="lensonline" />																<h2>Lens Online</h2>
+								<p>Lens Online is een online verkoper van ooglenzen. Zij verwerken dagelijkse duizenden bestellingen en hebben nood aan IT infrastructuur die niet hapert en die al hun operaties in goede banen leidt.</p>
+							</div>
+						</a>
+					</article>
+					</div>										</div>
+		<a class="left carousel-control" href="#clients-talk" data-slide="prev">&lsaquo;</a>
+		<a class="right carousel-control" href="#clients-talk" data-slide="next">&rsaquo;</a>
+	</section>
+
+
+	<div id="video-modal122" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Famous</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="jmOGnOYTbH0" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1401" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Exuvis</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="n5_TelgMQpA" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1400" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Proxis &#038; Azur</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="JnH8vTZZnMo" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1387" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">N-VA</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="ZUemTQn3ayg" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1393" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Amplexor</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="kk6Mk7QHgso" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1394" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Euroveiling</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="zUqa9FLnvOo" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1396" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Weba</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="4x8tsjVEa7w" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1397" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">BKCP</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="RpsLeU4idKI" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1398" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Kinepolis</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="hQ6VwK0Wo8Y" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal1399" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Corilus</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="mpxR0eYamNM" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+	<div id="video-modal125" class="modal-video modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h1 class="title-green">Lens Online</h1>
+		</div>
+		<div class="modal-body">
+			<div class="video-frame" id="player">
+								<div class="js-lazyYT" data-youtube-id="lTJPV_e0x6o" data-width="530" data-height="300"></div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+		</div>
+	</div>
+
+		<div id="did-you-know" class="carousel slide" data-pause="hover">
+		<div class="carousel-inner">
+								<div class="item active">
+						<strong>Wist je dat Nucleus zorg draagt voor het bewaren van privacy gevoelige gegevens?</strong>
+						<p>Niet enkel door de Belgische wetgeving te volgen voor persoonsgegevens maar ook door bv. het correct verwerken van harde schijven die niet meer in<br />
+werking zijn; die worden vakkundig en permanent vernietigd.</p>
+					</div>
+									<div class="item">
+						<strong>Wist je dat Nucleus aanwezig is in 4 datacenters in België?</strong>
+						<p>Niet alleen onze hoofd-locaties in Antwerpen en Nossegem maar ook in Zaventem en Diegem hebben we<br />
+datacenters om de snelste verbindingen aan te bieden.</p>
+					</div>
+									<div class="item">
+						<strong>Wist je dat Nucleus meer dan 15 000 domeinen in haar portfolio heeft?</strong>
+						<p>Van .be, .com of .net tot exotische domeinnaam extensies &#8211; Nucleus heeft het schaalvoordeel om aan<br />
+straffe prijzen onze gekende dienstverlening aan te bieden.</p>
+					</div>
+						</div>
+		<a class="left carousel-control" href="#did-you-know" data-slide="prev">&lsaquo;</a>
+		<a class="right carousel-control" href="#did-you-know" data-slide="next">&rsaquo;</a>
+	</div>
+	<div id="did-you-know-shadow"><img src="https://www.nucleus.be/wp-content/themes/nucleus/assets/images/shadow-carousel.png" alt="" /></div>
+
+		<div id="blog-twitter" class="container">
+		<div class="row">
+			<section id="blog" class="carousel slide span8" data-interval="false">
+				<h1 class="title-green">Nucleus blogt</h1>
+
+				<div class="carousel-inner">
+																	<div class="item row-fluid active">							<a href="https://www.nucleus.be/blog/drupal-8-is-wat-is-er-nieuw/" title="Drupal 8 is uit: wat is er nieuw?">
+								<article class="span6">
+																			<div class="blog-image">
+											<img src="https://www.nucleus.be/wp-content/uploads/2015/11/drupal_build_amazing-350x150.png" class="attachment-medium wp-post-image" alt="drupal_build_amazing" />										</div>
+																		<h1>Drupal 8 is uit: wat is er nieuw?</h1>
+									<span class="info">23/11/2015, 11:44</span>
+									<p>Vorige week werd, na meerdere jaren ontwikkeling, Drupal 8 vrijgegeven. Een stevige rewrite met meer <em>reusable </em>componenten die nu de basis te vormen van de nieuwe Drupal installatie. We zetten even een aantal nieuwe zaken op een rij.</p>
+								</article>
+							</a>
+																											<a href="https://www.nucleus.be/blog/is-een-private-cloud-echt-veiliger-dan-een-publieke-cloud/" title="Is een private cloud écht veiliger dan een publieke cloud?">
+								<article class="span6">
+																			<div class="blog-image">
+											<img src="https://www.nucleus.be/wp-content/uploads/2015/11/private-cloud-350x150.jpg" class="attachment-medium wp-post-image" alt="private-cloud" />										</div>
+																		<h1>Is een private cloud écht veiliger dan een publieke cloud?</h1>
+									<span class="info">18/11/2015, 15:11</span>
+									<p>Bij de afweging tussen het gebruik van een private of een publieke cloud is databeveiliging vaak een belangrijk argument. Het verschil in veiligheid tussen een publieke en private cloud is vaak niet zo groot als men denkt. Daarom verdient deze vraag een genuanceerd antwoord.</p>
+								</article>
+							</a>
+							</div>													<div class="item row-fluid">							<a href="https://www.nucleus.be/blog/nucleus-krijgt-nieuw-iso-270012013-certificaat/" title="Nucleus krijgt nieuw ISO 27001:2013 certificaat">
+								<article class="span6">
+																			<div class="blog-image">
+											<img src="https://www.nucleus.be/wp-content/uploads/2015/11/nucleus-certified-350x150.jpg" class="attachment-medium wp-post-image" alt="nucleus iso 27001 certified" />										</div>
+																		<h1>Nucleus krijgt nieuw ISO 27001:2013 certificaat</h1>
+									<span class="info">05/11/2015, 13:10</span>
+									<p><span>Nucleus kreeg recent een nieuw ISO 27001:2013 certificaat voor databeveiliging. We hadden dat al langer, maar vandaag zijn we gecertificeerd voor de meest recente versie van de norm.</span></p>
+								</article>
+							</a>
+																											<a href="https://www.nucleus.be/blog/welke-factoren-zijn-belangrijk-bij-de-keuze-voor-een-publieke-of-private-cloud/" title="Welke factoren zijn belangrijk bij de keuze voor een publieke of private cloud?">
+								<article class="span6">
+																			<div class="blog-image">
+											<img src="https://www.nucleus.be/wp-content/uploads/2015/11/cloud1-350x150.jpg" class="attachment-medium wp-post-image" alt="Kiezen voor een private cloud" />										</div>
+																		<h1>Welke factoren zijn belangrijk bij de keuze voor een publieke of private cloud?</h1>
+									<span class="info">02/11/2015, 13:47</span>
+									<p>Wanneer je op het punt staat om te kiezen voor een publieke of private cloudoplossing is het goed om niet alleen voor- en nadelen vooraf grondig af te wegen, maar ook de verschillende spelers en hun aanbod even onder de loep te nemen. Bij je keuze zijn vier elementen van doorslaggevend belang.</p>
+								</article>
+							</a>
+							</div>															</div>
+				<a class="left carousel-control" href="#blog" data-slide="prev">&lsaquo;</a>
+				<a class="right carousel-control" href="#blog" data-slide="next">&rsaquo;</a>
+			</section>
+
+			<div class="span4">
+				<div>
+					<h1 class="title-green">Nucleus tweet</h1>
+					<a class="twitter-timeline" href="https://twitter.com/nucleus_hosting" data-widget-id="375207388682264576">Tweets by @nucleus_hosting</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<footer>
+	<div id="top-footer">
+		<div class="container">
+			<div class="row">
+				<section id="blog-footer" class="span4">
+					<strong class="title"><a href="https://www.nucleus.be/blog/">Nucleus blog</a></strong>
+
+																	<article class="clearfix">
+
+																	<div class="image">
+										<img src="https://www.nucleus.be/wp-content/uploads/2015/11/drupal_build_amazing-50x50.png" class="attachment-small wp-post-image" alt="drupal_build_amazing" />									</div>
+																<h1><a href="https://www.nucleus.be/blog/drupal-8-is-wat-is-er-nieuw/">Drupal 8 is uit: wat is er nieuw?</a></h1>
+								<span>23/11/2015</span>
+								<span>gepost door Mattias</span>
+							</article>
+													<article class="clearfix">
+
+																	<div class="image">
+										<img src="https://www.nucleus.be/wp-content/uploads/2015/11/private-cloud-50x50.jpg" class="attachment-small wp-post-image" alt="private-cloud" />									</div>
+																<h1><a href="https://www.nucleus.be/blog/is-een-private-cloud-echt-veiliger-dan-een-publieke-cloud/">Is een private cloud écht veiliger dan een publieke cloud?</a></h1>
+								<span>18/11/2015</span>
+								<span>gepost door David</span>
+							</article>
+													<article class="clearfix">
+
+																	<div class="image">
+										<img src="https://www.nucleus.be/wp-content/uploads/2015/11/nucleus-certified-50x50.jpg" class="attachment-small wp-post-image" alt="nucleus iso 27001 certified" />									</div>
+																<h1><a href="https://www.nucleus.be/blog/nucleus-krijgt-nieuw-iso-270012013-certificaat/">Nucleus krijgt nieuw ISO 27001:2013 certificaat</a></h1>
+								<span>05/11/2015</span>
+								<span>gepost door David</span>
+							</article>
+															</section>
+
+				<div class="span4">
+					<div id="nav_menu-3" class="widget_nav_menu"><strong class="title">Producten</strong><ul id="menu-product-menu" class="menu"><li id="menu-item-2163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2163"><a href="https://www.nucleus.be/online-backup/">Online Back-up</a></li>
+<li id="menu-item-2164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2164"><a href="https://www.nucleus.be/virtual-private-server/">Virtual Private Server</a></li>
+<li id="menu-item-2165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2165"><a href="https://www.nucleus.be/dedicated-server/">Dedicated server</a></li>
+<li id="menu-item-2166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2166"><a href="https://www.nucleus.be/cloud-hosting/">Cloud Server</a></li>
+<li id="menu-item-2167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2167"><a href="https://www.nucleus.be/webhosting/">Shared Webhosting</a></li>
+<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2168"><a href="https://www.nucleus.be/colocation/">Colocatie of Housing</a></li>
+</ul></div>				</div>
+				<div class="span4">
+					<div id="nav_menu-2" class="widget_nav_menu"><strong class="title">Support</strong><ul id="menu-secondair_menu" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.nucleus.be/over/">Wie is Nucleus</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://www.nucleus.be/vacatures/">Jobs</a></li>
+<li id="menu-item-4661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4661"><a href="https://www.nucleus.be/over/cases/">Cases</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-44"><a href="https://www.nucleus.be/blog/">Blog</a></li>
+<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://www.nucleus.be/helpdesk/">Helpdesk</a></li>
+<li id="menu-item-1385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1385"><a href="https://order.nucleus.be">Order wizard</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.nucleus.be/contact/">Contact</a></li>
+</ul></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="bottom-footer">
+		<div class="container">
+			<div id="copyright">&copy 2015				NUCLEUS. All rights reserved | Alle vermelde prijzen zijn BTW exclusief |
+			</div>
+
+			<ul id="footer-menu" class="menu"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.nucleus.be/volledig-prijzenoverzicht/">Volledig prijzenoverzicht</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://www.nucleus.be/cookies/">Cookie policy</a></li>
+</ul>
+			<div id="social-links">
+				<a id="social-twitter" title="twitter" href="https://twitter.com/nucleus_hosting" target="_blank"><span class="img_replace">twitter</span></a>
+				<a id="social-fb" title="facebook" href="http://www.facebook.com/nucleushosting" target="_blank"><span class="img_replace">facebook</span></a>
+				<a id="social-linkedin" title="linkedin" href="http://www.linkedin.com/company/nucleus" target="_blank"><span class="img_replace">linkedin</span></a>
+				<a id="social-rss" title="rss" href="https://www.nucleus.be/feed/" target="_blank"><span class="img_replace">rss</span></a>
+			</div>
+		</div>
+
+	</div>
+</footer>
+<div id="scripts">
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/modernizr.custom.17475.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/jquery.elastislide.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/jquerypp.custom.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/load-image.min.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/bootstrap-image-gallery.min.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/jquery.isotope.js"></script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/jquery-iframeResizer.min.js"></script>
+	<script type="text/javascript">
+		//<![CDATA[
+		$(document).ready(function(){
+			$('iframe[seamless]').iFrameSizer({
+				log: false,
+				contentWindowBodyMargin: 0,
+				doHeight:true,
+				doWidth:false,
+				enablePublicMethods:false,
+				interval:0
+			});
+		});
+		//]]>
+	</script>
+	<script type="text/javascript" src="https://www.nucleus.be/wp-content/themes/nucleus/assets/js/core.js"></script>
+
+	
+	<script>
+		var Globals = [];
+		$(document).trigger('htmlloaded');
+	</script>
+	
+<script type='text/javascript' src='https://www.nucleus.be/wp-includes/js/comment-reply.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://www.nucleus.be/wp-content/themes/nucleus/assets/js/lazyYT.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"nl","icl_home":"https:\/\/www.nucleus.be\/","ajax_url":"https:\/\/www.nucleus.be\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.nucleus.be/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"nucleusblog"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.nucleus.be/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.3.1'></script>
