@@ -1,4 +1,10 @@
-<?php require_once('../_php/include.php'); ?>
+<?php
+require_once('../_php/include.php');
+
+define('BASE_PATH', '/original/');
+
+define('DEMO_URL', BASE_URL . BASE_PATH);
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <!--[if IE 8 ]><html lang="nl-NL" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" class="ie8"><![endif]-->
 <!--[if (gt IE 8)|!(IE)]><html lang="nl-NL" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
@@ -8,7 +14,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Lorem Ipsum</title>
 
-<link rel="stylesheet" href="<?php echo BASE_URL; ?>/css/language-selector.css" type="text/css" media="all" />
+<link rel="stylesheet" href="<?php echo DEMO_URL; ?>/css/language-selector.css" type="text/css" media="all" />
 	<style type='text/css'>
           .no-break br {
             display: none !important;
@@ -17,29 +23,29 @@
 <!-- This site is optimized with the Yoast SEO plugin v3.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Cras blandit finibus turpis eu ullamcorper. Suspendisse varius in massa ut tristique. Maecenas gravida mi eu massa volutpat tincidunt. Mauris fermentum suscipit quam bibendum vehicula."/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="<?php echo BASE_URL; ?>" />
+<link rel="canonical" href="<?php echo DEMO_URL; ?>" />
 <!-- / Yoast SEO plugin. -->
 
-<link rel='stylesheet' id='lazyyt-css'  href='<?php echo BASE_URL; ?>css/lazyYT.css' media='all' />
-<link rel='stylesheet' id='cpsh-shortcodes-css'  href='<?php echo BASE_URL; ?>css/shortcodes.css' media='all' />
-<script type='text/javascript' src='<?php echo BASE_URL; ?>js/jquery.js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL; ?>js/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='<?php echo BASE_URL; ?>js/js.cookie.js'></script>
-<link rel="alternate" hreflang="nl-NL" href="<?php echo BASE_URL; ?>" />
-<link rel="alternate" hreflang="en-US" href="<?php echo BASE_URL; ?>en/" />
+<link rel='stylesheet' id='lazyyt-css'  href='<?php echo DEMO_URL; ?>css/lazyYT.css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='<?php echo DEMO_URL; ?>css/shortcodes.css' media='all' />
+<script type='text/javascript' src='<?php echo DEMO_URL; ?>js/jquery.js'></script>
+<script type='text/javascript' src='<?php echo DEMO_URL; ?>js/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='<?php echo DEMO_URL; ?>js/js.cookie.js'></script>
+<link rel="alternate" hreflang="nl-NL" href="<?php echo DEMO_URL; ?>" />
+<link rel="alternate" hreflang="en-US" href="<?php echo DEMO_URL; ?>en/" />
 <style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
 }</style>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-	<link href="<?php echo BASE_URL; ?>css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
-	<link href="<?php echo BASE_URL; ?>css/bootstrap-responsive.css" media="screen" rel="stylesheet" type="text/css" />
-	<link href="<?php echo BASE_URL; ?>css/bootstrap-image-gallery.css" media="screen" rel="stylesheet" type="text/css" />
-	<link href="<?php echo BASE_URL; ?>css/default.css" media="screen" rel="stylesheet" type="text/css" />
-	<link href="<?php echo BASE_URL; ?>css/elastislide.css" media="screen" rel="stylesheet" type="text/css" />
-	<link href="<?php echo BASE_URL; ?>css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="<?php echo BASE_URL; ?>css/font-awesome.min.css">
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/jquery.js"></script>
+	<link href="<?php echo DEMO_URL; ?>css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="<?php echo DEMO_URL; ?>css/bootstrap-responsive.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="<?php echo DEMO_URL; ?>css/bootstrap-image-gallery.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="<?php echo DEMO_URL; ?>css/default.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="<?php echo DEMO_URL; ?>css/elastislide.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="<?php echo DEMO_URL; ?>css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="<?php echo DEMO_URL; ?>css/font-awesome.min.css">
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/jquery.js"></script>
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -207,7 +213,7 @@
 <div id="header-carousel" class="carousel slide" data-pause="hover">
 	<div class="carousel-inner">
 						<div class="item active">
-					<img src="<?php echo BASE_URL; ?>images/nucleus_header_uptime.png" alt="" width="1150" height="438" usemap="#uptime_as_a_service_slider" />
+					<img src="<?php echo DEMO_URL; ?>images/nucleus_header_uptime.png" alt="" width="1150" height="438" usemap="#uptime_as_a_service_slider" />
 					<map id="uptime_as_a_service_slider" name="uptime_as_a_service_slider">
 <area shape="poly" alt="Bekijk de video" title="Dolor sit amit" />
 </map>					<div class="container">
@@ -220,7 +226,7 @@
 					</div>
 				</div>
 							<div class="item">
-					<img src="<?php echo BASE_URL; ?>images/Nucleus_header_Nug.png" alt="" width="1150" height="438" />
+					<img src="<?php echo DEMO_URL; ?>images/Nucleus_header_Nug.png" alt="" width="1150" height="438" />
 										<div class="container">
 						<div class="carousel-caption">
 							<h1>Vivamus venenatis tempus</h1>
@@ -231,7 +237,7 @@
 					</div>
 				</div>
 							<div class="item">
-					<img src="<?php echo BASE_URL; ?>images/kinepolis1.png" alt="" width="1150" height="438" />
+					<img src="<?php echo DEMO_URL; ?>images/kinepolis1.png" alt="" width="1150" height="438" />
 										<div class="container">
 						<div class="carousel-caption">
 							<h1>Vivamus venenatis tempus</h1>
@@ -257,7 +263,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_multidcoplossingen.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_multidcoplossingen.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -269,7 +275,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_disasterrecovery.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_disasterrecovery.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -281,7 +287,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_devops.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_devops.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -293,7 +299,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_scalability.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_scalability.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -305,7 +311,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_loadbalancing.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_loadbalancing.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -317,7 +323,7 @@
 					<article class="span4">
 						<div class="row-fluid">
 							<div class="span2">
-								<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_managedhosting.png" alt="" width="50" height="50" /></span>
+								<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_managedhosting.png" alt="" width="50" height="50" /></span>
 							</div>
 							<div class="span10">
 								<h2>Suspendisse vestibulum</h2>
@@ -337,7 +343,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_onlinebackup.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_onlinebackup.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -349,7 +355,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_vps.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_vps.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -361,7 +367,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_dedicated.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_dedicated.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -373,7 +379,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_dcs.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_dcs.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -385,7 +391,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_sharedhosting.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_sharedhosting.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -397,7 +403,7 @@
 						<article class="span4">
 							<div class="row-fluid">
 								<div class="span2">
-									<span class="service_icon"><img src="<?php echo BASE_URL; ?>images/icon_colocation.png" alt="" width="50" height="50" /></span>
+									<span class="service_icon"><img src="<?php echo DEMO_URL; ?>images/icon_colocation.png" alt="" width="50" height="50" /></span>
 								</div>
 								<div class="span10">
 									<h2>Suspendisse vestibulum</h2>
@@ -416,7 +422,7 @@
 											<div class="item row-fluid active">					<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-								<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="famous" />																<h2>Testimonial</h2>
+								<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="famous" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -424,7 +430,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Exuvis" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Exuvis" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -432,7 +438,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Proxis en Azur" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Proxis en Azur" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -440,7 +446,7 @@
 															</div><div class="item row-fluid">					<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="N-VA" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="N-VA" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -448,7 +454,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Amplexor" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Amplexor" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -456,7 +462,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Euroveiling" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Euroveiling" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -464,7 +470,7 @@
 															</div><div class="item row-fluid">					<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Weba" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Weba" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -472,7 +478,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="BKCP" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="BKCP" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -480,7 +486,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Kinepolis" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Kinepolis" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -488,7 +494,7 @@
 															</div><div class="item row-fluid">					<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Corilus" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="Corilus" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -496,7 +502,7 @@
 																				<article class="span4">
 						<a href="#">
 							<div class="row-fluid">
-																	<img src="<?php echo BASE_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="lensonline" />																<h2>Testimonial</h2>
+																	<img src="<?php echo DEMO_URL; ?>images/testimonial.png" class="attachment-medium2 wp-post-image" alt="lensonline" />																<h2>Testimonial</h2>
 								<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
 							</div>
 						</a>
@@ -524,7 +530,7 @@
 		<a class="left carousel-control" href="#did-you-know" data-slide="prev">&lsaquo;</a>
 		<a class="right carousel-control" href="#did-you-know" data-slide="next">&rsaquo;</a>
 	</div>
-	<div id="did-you-know-shadow"><img src="<?php echo BASE_URL; ?>images/shadow-carousel.png" alt="" /></div>
+	<div id="did-you-know-shadow"><img src="<?php echo DEMO_URL; ?>images/shadow-carousel.png" alt="" /></div>
 
 		<div id="blog-twitter" class="container">
 		<div class="row">
@@ -535,7 +541,7 @@
 																	<div class="item row-fluid active">							<a href="#">
 								<article class="span6">
 																			<div class="blog-image">
-											<img src="<?php echo BASE_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="drupal_build_amazing" />										</div>
+											<img src="<?php echo DEMO_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="drupal_build_amazing" />										</div>
 																		<h1>Mauris tempus tortor purus</h1>
 									<span class="info">23/11/2015, 11:44</span>
 									<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
@@ -544,7 +550,7 @@
 																											<a href="#">
 								<article class="span6">
 																			<div class="blog-image">
-											<img src="<?php echo BASE_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="private-cloud" />										</div>
+											<img src="<?php echo DEMO_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="private-cloud" />										</div>
 																		<h1>Mauris tempus tortor purus</h1>
 									<span class="info">18/11/2015, 15:11</span>
 									<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
@@ -553,7 +559,7 @@
 							</div>													<div class="item row-fluid">							<a href="#">
 								<article class="span6">
 																			<div class="blog-image">
-											<img src="<?php echo BASE_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="nucleus iso 27001 certified" />										</div>
+											<img src="<?php echo DEMO_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="nucleus iso 27001 certified" />										</div>
 																		<h1>Mauris tempus tortor purus</h1>
 									<span class="info">05/11/2015, 13:10</span>
 									<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
@@ -562,7 +568,7 @@
 																											<a href="#">
 								<article class="span6">
 																			<div class="blog-image">
-											<img src="<?php echo BASE_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="Kiezen voor een private cloud" />										</div>
+											<img src="<?php echo DEMO_URL; ?>images/blog_image.png" class="attachment-medium wp-post-image" alt="Kiezen voor een private cloud" />										</div>
 																		<h1>Mauris tempus tortor purus</h1>
 									<span class="info">02/11/2015, 13:47</span>
 									<p>Suspendisse vestibulum laoreet tellus. Cras tempus viverra lobortis.</p>
@@ -591,7 +597,7 @@
 																	<article class="clearfix">
 
 																	<div class="image">
-										<img src="<?php echo BASE_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="drupal_build_amazing" />									</div>
+										<img src="<?php echo DEMO_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="drupal_build_amazing" />									</div>
 																<h1><a href="#">Mauris tempus tortor purus</a></h1>
 								<span>23/11/2015</span>
 								<span>gepost door abc</span>
@@ -599,7 +605,7 @@
 													<article class="clearfix">
 
 																	<div class="image">
-										<img src="<?php echo BASE_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="private-cloud" />									</div>
+										<img src="<?php echo DEMO_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="private-cloud" />									</div>
 																<h1><a href="#">Mauris tempus tortor purus</a></h1>
 								<span>18/11/2015</span>
 								<span>gepost door abc</span>
@@ -607,7 +613,7 @@
 													<article class="clearfix">
 
 																	<div class="image">
-										<img src="<?php echo BASE_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="nucleus iso 27001 certified" />									</div>
+										<img src="<?php echo DEMO_URL; ?>images/blog_image-50x50.png" class="attachment-small wp-post-image" alt="nucleus iso 27001 certified" />									</div>
 																<h1><a href="#">Mauris tempus tortor purus</a></h1>
 								<span>05/11/2015</span>
 								<span>gepost door abc</span>
@@ -653,14 +659,14 @@
 	</div>
 </footer>
 <div id="scripts">
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/modernizr.custom.17475.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/jquery.elastislide.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/jquerypp.custom.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/load-image.min.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/bootstrap-image-gallery.min.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/jquery.isotope.js"></script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/jquery-iframeResizer.min.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/modernizr.custom.17475.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/jquery.elastislide.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/jquerypp.custom.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/load-image.min.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/bootstrap-image-gallery.min.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/jquery.isotope.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/jquery-iframeResizer.min.js"></script>
 	<script type="text/javascript">
 		//<![CDATA[
 		$(document).ready(function(){
@@ -675,7 +681,7 @@
 		});
 		//]]>
 	</script>
-	<script type="text/javascript" src="<?php echo BASE_URL; ?>js/core.js"></script>
+	<script type="text/javascript" src="<?php echo DEMO_URL; ?>js/core.js"></script>
 
 
 	<script>
@@ -683,4 +689,4 @@
 		$(document).trigger('htmlloaded');
 	</script>
 
-<script type='text/javascript' src='<?php echo BASE_URL; ?>js/lazyYT.js'></script>
+<script type='text/javascript' src='<?php echo DEMO_URL; ?>js/lazyYT.js'></script>
