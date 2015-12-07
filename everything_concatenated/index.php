@@ -1,7 +1,7 @@
 <?php
 require_once('../_php/include.php');
 
-define('BASE_PATH', '/original/');
+define('BASE_PATH', '/everything_concatenated/');
 
 define('DEMO_URL', BASE_URL . BASE_PATH);
 ?>
